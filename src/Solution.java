@@ -2,7 +2,8 @@ import java.util.Vector;
 
 public class Solution {
     public static void main(String[] args) {
-        System.out.println(convert("AB", 1));
+//        System.out.println(convert("AB", 1));
+        System.out.println(reverse(-2147483648));
     }
 
     public static String convert(String s, int numRows) {
@@ -45,5 +46,41 @@ public class Solution {
         }
 
         return result;
+    }
+
+    public static int reverse(int x) {
+
+        if (x < Integer.MIN_VALUE || x > Integer.MAX_VALUE) {
+            return 0;
+        }
+
+        int index = 1;
+        double tempResult = 0.0;
+        if(x < 0){
+            index = -1;
+        }
+
+        String result = "";
+        String number = Integer.toString(x);
+        for(int i = 0 ; i < number.length() ; i++){
+            if(index == -1 && i == 0){
+                continue;
+            }
+            result = String.valueOf(number.charAt(i)) + result;
+        }
+
+        if(index == 1){
+            tempResult =  Double.valueOf(result.trim());
+        }else{
+            tempResult =  Double.valueOf(result.trim()) * (-1);
+        }
+
+        if (tempResult < Integer.MIN_VALUE || tempResult > Integer.MAX_VALUE) {
+            return 0;
+        }else{
+            x = (int) tempResult;
+        }
+
+        return x;
     }
 }
