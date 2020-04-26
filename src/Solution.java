@@ -1,9 +1,11 @@
+import java.util.ArrayList;
 import java.util.Vector;
 
 public class Solution {
     public static void main(String[] args) {
 //        System.out.println(convert("AB", 1));
-        System.out.println(reverse(-2147483648));
+//        System.out.println(reverse(-2147483648));
+        pop(1234);
     }
 
     public static String convert(String s, int numRows) {
@@ -82,5 +84,26 @@ public class Solution {
         }
 
         return x;
+    }
+
+    //简单de把数字反过来
+    public static int pop(int x){
+        ArrayList<Integer> pop = new ArrayList<Integer>();
+        int temp = 0;
+        int rev = 0;
+
+        //把数字一个一个取出来
+        while(x != 0) {
+            pop.add(x % 10);
+            x /= 10;
+        }
+        System.out.println(pop);
+
+        //把数字反过来后组成一个新的数字
+        for (int i = 0; i < pop.size(); i++) {
+            temp = pop.get(i) + temp*10;
+        }
+        System.out.println(temp);
+        return temp;
     }
 }
