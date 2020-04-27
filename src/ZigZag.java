@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Vector;
 
-public class Solution {
+public class ZigZag {
     public static void main(String[] args) {
 //        System.out.println(convert("AB", 1));
 //        System.out.println(reverse(-2147483648));
