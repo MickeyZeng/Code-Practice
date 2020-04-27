@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e1c413a-ae7f-49ab-9e1b-ca7ffcc14ca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/isPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZigZag/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZigZag/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.isPalindrome">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="ZigZag" />
@@ -74,8 +73,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isPalindrome" />
+      <module name="ZigZag" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isPalindrome" />
         <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
@@ -92,7 +99,8 @@
       <updated>1587875099328</updated>
       <workItem from="1587875106279" duration="2341000" />
       <workItem from="1587879143323" duration="1561000" />
-      <workItem from="1587881078519" duration="659000" />
+      <workItem from="1587881078519" duration="702000" />
+      <workItem from="1587961195309" duration="210000" />
     </task>
     <servers />
   </component>
