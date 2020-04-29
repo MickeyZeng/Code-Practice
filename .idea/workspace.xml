@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e1c413a-ae7f-49ab-9e1b-ca7ffcc14ca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/isMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intToRoman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZigZag/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZigZag/isPalindrome.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,9 +66,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.maxArea">
+  <component name="RunManager" selected="Application.intToRoman">
     <configuration name="ZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ZigZag" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intToRoman" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.intToRoman" />
         <item itemvalue="Application.maxArea" />
         <item itemvalue="Application.isPalindrome" />
         <item itemvalue="Application.ZigZag" />
@@ -113,7 +118,7 @@
       <workItem from="1587879143323" duration="1561000" />
       <workItem from="1587881078519" duration="702000" />
       <workItem from="1587961195309" duration="1940000" />
-      <workItem from="1588133029902" duration="1627000" />
+      <workItem from="1588133029902" duration="4266000" />
     </task>
     <servers />
   </component>
