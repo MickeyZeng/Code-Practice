@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e1c413a-ae7f-49ab-9e1b-ca7ffcc14ca6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/romanToInt.java" afterDir="false" />
+    <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/longestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/ZigZag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/ZigZag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/intToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/intToRoman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/isMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/isMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/isPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/isPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/maxArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/maxArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/romanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/romanToInt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +43,7 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1b3yVuSQzgZv2oF3PwhNDjB6rR1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1bCrEne8sHen2nEtfZxMh3EOujC" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -66,37 +73,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.romanToInt">
-    <configuration name="ZigZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZigZag" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="intToRoman" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="intToRoman" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isPalindrome" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="maxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maxArea" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="romanToInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="romanToInt" />
+  <component name="RunManager">
+    <configuration name="longestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longestCommonPrefix" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.romanToInt" />
-        <item itemvalue="Application.intToRoman" />
-        <item itemvalue="Application.maxArea" />
-        <item itemvalue="Application.isPalindrome" />
-        <item itemvalue="Application.ZigZag" />
+        <item itemvalue="Application.longestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -117,19 +92,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e1c413a-ae7f-49ab-9e1b-ca7ffcc14ca6" name="Default Changelist" comment="" />
-      <created>1587875099328</created>
+      <changelist id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="" />
+      <created>1588146807131</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1587875099328</updated>
-      <workItem from="1587875106279" duration="2341000" />
-      <workItem from="1587879143323" duration="1561000" />
-      <workItem from="1587881078519" duration="702000" />
-      <workItem from="1587961195309" duration="1940000" />
-      <workItem from="1588133029902" duration="4371000" />
-      <workItem from="1588141299510" duration="919000" />
-      <workItem from="1588142291740" duration="40000" />
-      <workItem from="1588142368988" duration="627000" />
+      <updated>1588146807131</updated>
+      <workItem from="1588146808771" duration="1664000" />
     </task>
     <servers />
   </component>
@@ -141,9 +109,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
