@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/longestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letterCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/ZigZag.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/ZigZag.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/intToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/intToRoman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/isMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/isMatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/isPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/isPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/maxArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/maxArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/romanToInt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/romanToInt.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +65,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.letterCombinations">
+    <configuration name="letterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letterCombinations" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="longestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="longestCommonPrefix" />
       <module name="CodePractice" />
@@ -81,8 +80,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threeSum" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.letterCombinations" />
+        <item itemvalue="Application.threeSum" />
         <item itemvalue="Application.longestCommonPrefix" />
       </list>
     </recent_temporary>
@@ -97,7 +105,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588146807131</updated>
-      <workItem from="1588146808771" duration="1664000" />
+      <workItem from="1588146808771" duration="3303000" />
+      <workItem from="1588217845064" duration="937000" />
+      <workItem from="1588246565100" duration="1351000" />
+      <workItem from="1588300681604" duration="2471000" />
     </task>
     <servers />
   </component>
@@ -109,7 +120,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
