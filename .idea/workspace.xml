@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExampleClass/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/removeNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isValid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +64,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.removeNthFromEnd">
+  <component name="RunManager" selected="Application.isValid">
+    <configuration name="isValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isValid" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="letterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="letterCombinations" />
       <module name="CodePractice" />
@@ -97,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isValid" />
         <item itemvalue="Application.removeNthFromEnd" />
         <item itemvalue="Application.letterCombinations" />
         <item itemvalue="Application.threeSum" />
@@ -117,7 +123,7 @@
       <workItem from="1588146808771" duration="3303000" />
       <workItem from="1588217845064" duration="937000" />
       <workItem from="1588246565100" duration="1351000" />
-      <workItem from="1588300681604" duration="8187000" />
+      <workItem from="1588300681604" duration="9407000" />
     </task>
     <servers />
   </component>
