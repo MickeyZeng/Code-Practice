@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mergeKLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mergeTwoLists">
+  <component name="RunManager" selected="Application.mergeKLists">
     <configuration name="isValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="isValid" />
       <module name="CodePractice" />
@@ -74,6 +75,13 @@
     </configuration>
     <configuration name="letterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="letterCombinations" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeKLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mergeKLists" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threeSum" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeKLists" />
         <item itemvalue="Application.mergeTwoLists" />
         <item itemvalue="Application.isValid" />
         <item itemvalue="Application.removeNthFromEnd" />
         <item itemvalue="Application.letterCombinations" />
-        <item itemvalue="Application.threeSum" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +124,8 @@
       <workItem from="1588146808771" duration="3303000" />
       <workItem from="1588217845064" duration="937000" />
       <workItem from="1588246565100" duration="1351000" />
-      <workItem from="1588300681604" duration="14356000" />
+      <workItem from="1588300681604" duration="14472000" />
+      <workItem from="1588412728347" duration="5078000" />
     </task>
     <servers />
   </component>
