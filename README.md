@@ -54,6 +54,14 @@
 
 [Question For Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
+#### Reverse Nodes in k-Group
+
+[Question For Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/){Not finish}
+
+#### Remove Duplicates from Sorted Array
+
+[Question For Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
 
 
 
