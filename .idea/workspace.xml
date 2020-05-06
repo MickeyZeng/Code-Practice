@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExampleClass/removeDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removeElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strStr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/swapPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/swapPairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/ExampleClass/removeDuplicates.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,27 +68,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.removeDuplicates">
-    <configuration name="mergeKLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mergeKLists" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mergeTwoLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mergeTwoLists" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.strStr">
     <configuration name="removeDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExampleClass.removeDuplicates" />
+      <option name="MAIN_CLASS_NAME" value="removeDuplicates" />
       <module name="CodePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExampleClass.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,8 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="removeElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="removeElement" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="reverseKGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reverseKGroup" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strStr" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.strStr" />
+        <item itemvalue="Application.removeElement" />
         <item itemvalue="Application.removeDuplicates" />
         <item itemvalue="Application.reverseKGroup" />
         <item itemvalue="Application.swapPairs" />
-        <item itemvalue="Application.mergeKLists" />
-        <item itemvalue="Application.mergeTwoLists" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +136,7 @@
       <workItem from="1588300681604" duration="14472000" />
       <workItem from="1588412728347" duration="5184000" />
       <workItem from="1588657820415" duration="3891000" />
-      <workItem from="1588746563669" duration="4493000" />
+      <workItem from="1588746563669" duration="7528000" />
     </task>
     <servers />
   </component>

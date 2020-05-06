@@ -62,6 +62,14 @@
 
 [Question For Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
+#### Remove Element
+
+[Question For Remove Element](https://leetcode.com/problems/remove-element/)
+
+#### Implement strStr()
+
+[Question For Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+
 
 
 
