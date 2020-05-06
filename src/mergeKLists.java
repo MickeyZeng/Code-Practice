@@ -57,8 +57,6 @@ public class mergeKLists {
 
             tempNode = tempNode.next;
 
-
-
         }
 
         return resultNode.next;

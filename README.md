@@ -50,6 +50,10 @@
 
 [Question For Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
+#### Swap Nodes in Pairs
+
+[Question For Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
 
 
 
