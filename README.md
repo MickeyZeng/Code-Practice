@@ -70,7 +70,19 @@
 
 [Question For Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
+#### Divide Two Integers
 
+[Question For Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 
+#### Substring with Concatenation of All Words
 
+[Question For Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/){Not Finish}
+
+#### Next Permutation
+
+[Question For Next Permutation](https://leetcode.com/problems/next-permutation/)
+
+#### Longest Valid Parentheses
+
+[Qustion For  Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
