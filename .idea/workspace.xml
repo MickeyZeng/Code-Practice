@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/divide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/findSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -137,7 +131,7 @@
       <workItem from="1589175587486" duration="117000" />
       <workItem from="1589790734440" duration="537000" />
       <workItem from="1591419868910" duration="1711000" />
-      <workItem from="1592377460007" duration="1737000" />
+      <workItem from="1592377460007" duration="1865000" />
     </task>
     <servers />
   </component>

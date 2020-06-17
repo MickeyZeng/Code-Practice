@@ -86,3 +86,9 @@
 
 [Qustion For  Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
+#### Find First and Last Position of Element in Sorted Array
+
+[Question For Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+#### Search in Rotated Sorted Array
+[Question For Search in Rotated Sorted Array](https://leetcode.com/problems/search-insert-position/)
