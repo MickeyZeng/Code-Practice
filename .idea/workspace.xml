@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/searchInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isValidSudoku.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/searchInsert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/searchInsert.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,9 +66,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.searchInsert">
+  <component name="RunManager" selected="Application.isValidSudoku">
     <configuration name="divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="divide" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="isValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isValidSudoku" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,20 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="strStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strStr" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isValidSudoku" />
         <item itemvalue="Application.searchInsert" />
         <item itemvalue="Application.search" />
         <item itemvalue="Application.longestValidParentheses" />
         <item itemvalue="Application.divide" />
-        <item itemvalue="Application.strStr" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +135,7 @@
       <workItem from="1589790734440" duration="537000" />
       <workItem from="1591419868910" duration="1711000" />
       <workItem from="1592377460007" duration="1892000" />
-      <workItem from="1592542639851" duration="531000" />
+      <workItem from="1592542639851" duration="2987000" />
     </task>
     <servers />
   </component>

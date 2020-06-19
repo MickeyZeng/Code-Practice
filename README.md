@@ -96,4 +96,5 @@
 #### Search Insert Position
 [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/)
 
-
+####Valid Sudoku
+[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/submissions/)
