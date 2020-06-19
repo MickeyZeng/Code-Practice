@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchInsert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.search">
+  <component name="RunManager" selected="Application.searchInsert">
     <configuration name="divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="divide" />
       <module name="CodePractice" />
@@ -78,15 +79,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="removeElement" />
+    <configuration name="search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search" />
+    <configuration name="searchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchInsert" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.searchInsert" />
         <item itemvalue="Application.search" />
         <item itemvalue="Application.longestValidParentheses" />
         <item itemvalue="Application.divide" />
         <item itemvalue="Application.strStr" />
-        <item itemvalue="Application.removeElement" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,8 @@
       <workItem from="1589175587486" duration="117000" />
       <workItem from="1589790734440" duration="537000" />
       <workItem from="1591419868910" duration="1711000" />
-      <workItem from="1592377460007" duration="1865000" />
+      <workItem from="1592377460007" duration="1892000" />
+      <workItem from="1592542639851" duration="531000" />
     </task>
     <servers />
   </component>
