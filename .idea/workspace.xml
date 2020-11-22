@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/isValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/byteDance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hangout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/searchInsert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/searchInsert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/META-INF/CodePractice.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,10 +68,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.isValidSudoku">
-    <configuration name="divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="divide" />
+  <component name="RunManager" selected="Application.byteDance">
+    <configuration name="byteDance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="byteDance" />
       <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gift" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hangout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hangout" />
+      <module name="CodePractice" />
+      <option name="PROGRAM_PARAMETERS" value="6 5 3 8 3 2 5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,38 +94,32 @@
     <configuration name="isValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="isValidSudoku" />
       <module name="CodePractice" />
+      <option name="PROGRAM_PARAMETERS" value="6 5 3 8 3 2 5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestValidParentheses" />
+    <configuration name="reverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverseArray" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="searchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchInsert" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.isValidSudoku" />
+      <item itemvalue="Application.hangout" />
+      <item itemvalue="Application.reverseArray" />
+      <item itemvalue="Application.gift" />
+      <item itemvalue="Application.byteDance" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.byteDance" />
+        <item itemvalue="Application.gift" />
+        <item itemvalue="Application.reverseArray" />
+        <item itemvalue="Application.hangout" />
         <item itemvalue="Application.isValidSudoku" />
-        <item itemvalue="Application.searchInsert" />
-        <item itemvalue="Application.search" />
-        <item itemvalue="Application.longestValidParentheses" />
-        <item itemvalue="Application.divide" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +146,15 @@
       <workItem from="1589790734440" duration="537000" />
       <workItem from="1591419868910" duration="1711000" />
       <workItem from="1592377460007" duration="1892000" />
-      <workItem from="1592542639851" duration="2987000" />
+      <workItem from="1592542639851" duration="3130000" />
+      <workItem from="1594702238064" duration="129000" />
+      <workItem from="1599218076573" duration="6906000" />
+      <workItem from="1599383986704" duration="1113000" />
+      <workItem from="1599392756673" duration="6998000" />
+      <workItem from="1599645765834" duration="818000" />
+      <workItem from="1599924004898" duration="2082000" />
+      <workItem from="1600085035622" duration="10517000" />
+      <workItem from="1600598355283" duration="420000" />
     </task>
     <servers />
   </component>
