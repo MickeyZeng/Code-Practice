@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/byteDance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/gift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hangout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/combinationSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/META-INF/CodePractice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/byteDance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/byteDance.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,58 +71,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.byteDance">
-    <configuration name="byteDance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="byteDance" />
+  <component name="RunManager" selected="Application.trap">
+    <configuration name="combinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combinationSum" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="gift" />
+    <configuration name="combinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combinationSum2" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hangout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hangout" />
+    <configuration name="countAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countAndSay" />
       <module name="CodePractice" />
-      <option name="PROGRAM_PARAMETERS" value="6 5 3 8 3 2 5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isValidSudoku" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isValidSudoku" />
+    <configuration name="firstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstMissingPositive" />
       <module name="CodePractice" />
-      <option name="PROGRAM_PARAMETERS" value="6 5 3 8 3 2 5" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseArray" />
+    <configuration name="trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trap" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.isValidSudoku" />
-      <item itemvalue="Application.hangout" />
-      <item itemvalue="Application.reverseArray" />
-      <item itemvalue="Application.gift" />
-      <item itemvalue="Application.byteDance" />
+      <item itemvalue="Application.countAndSay" />
+      <item itemvalue="Application.combinationSum" />
+      <item itemvalue="Application.combinationSum2" />
+      <item itemvalue="Application.firstMissingPositive" />
+      <item itemvalue="Application.trap" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.byteDance" />
-        <item itemvalue="Application.gift" />
-        <item itemvalue="Application.reverseArray" />
-        <item itemvalue="Application.hangout" />
-        <item itemvalue="Application.isValidSudoku" />
+        <item itemvalue="Application.trap" />
+        <item itemvalue="Application.firstMissingPositive" />
+        <item itemvalue="Application.combinationSum2" />
+        <item itemvalue="Application.combinationSum" />
+        <item itemvalue="Application.countAndSay" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +156,9 @@
       <workItem from="1599924004898" duration="2082000" />
       <workItem from="1600085035622" duration="10517000" />
       <workItem from="1600598355283" duration="420000" />
+      <workItem from="1606015553810" duration="4758000" />
+      <workItem from="1606201219733" duration="10733000" />
+      <workItem from="1606454233294" duration="1668000" />
     </task>
     <servers />
   </component>
