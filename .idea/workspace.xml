@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/combinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/combinationSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/countAndSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firstMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/trap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/byteDance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/byteDance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/trap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/trap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wildcardMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wildcardMatching.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.trap">
+  <component name="RunManager" selected="Application.wildcardMatching">
     <configuration name="combinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="combinationSum" />
       <module name="CodePractice" />
@@ -81,13 +75,6 @@
     </configuration>
     <configuration name="combinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="combinationSum2" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="countAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countAndSay" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,20 +94,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="wildcardMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wildcardMatching" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.countAndSay" />
       <item itemvalue="Application.combinationSum" />
       <item itemvalue="Application.combinationSum2" />
       <item itemvalue="Application.firstMissingPositive" />
       <item itemvalue="Application.trap" />
+      <item itemvalue="Application.wildcardMatching" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.wildcardMatching" />
         <item itemvalue="Application.trap" />
         <item itemvalue="Application.firstMissingPositive" />
         <item itemvalue="Application.combinationSum2" />
         <item itemvalue="Application.combinationSum" />
-        <item itemvalue="Application.countAndSay" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +152,7 @@
       <workItem from="1600598355283" duration="420000" />
       <workItem from="1606015553810" duration="4758000" />
       <workItem from="1606201219733" duration="10733000" />
-      <workItem from="1606454233294" duration="1668000" />
+      <workItem from="1606454233294" duration="6926000" />
     </task>
     <servers />
   </component>
