@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JumpGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/groupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/trap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodePractice/trap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wildcardMatching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wildcardMatching.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,56 +69,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.wildcardMatching">
-    <configuration name="combinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="combinationSum" />
+  <component name="RunManager" selected="Application.pow">
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="combinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="combinationSum2" />
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutations" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstMissingPositive" />
+    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RotateImage" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="trap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trap" />
+    <configuration name="groupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="groupAnagrams" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="wildcardMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wildcardMatching" />
+    <configuration name="pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pow" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.combinationSum" />
-      <item itemvalue="Application.combinationSum2" />
-      <item itemvalue="Application.firstMissingPositive" />
-      <item itemvalue="Application.trap" />
-      <item itemvalue="Application.wildcardMatching" />
+      <item itemvalue="Application.Permutations" />
+      <item itemvalue="Application.Permutation" />
+      <item itemvalue="Application.RotateImage" />
+      <item itemvalue="Application.groupAnagrams" />
+      <item itemvalue="Application.pow" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.wildcardMatching" />
-        <item itemvalue="Application.trap" />
-        <item itemvalue="Application.firstMissingPositive" />
-        <item itemvalue="Application.combinationSum2" />
-        <item itemvalue="Application.combinationSum" />
+        <item itemvalue="Application.pow" />
+        <item itemvalue="Application.groupAnagrams" />
+        <item itemvalue="Application.RotateImage" />
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.Permutations" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +156,7 @@
       <workItem from="1600598355283" duration="420000" />
       <workItem from="1606015553810" duration="4758000" />
       <workItem from="1606201219733" duration="10733000" />
-      <workItem from="1606454233294" duration="6926000" />
+      <workItem from="1606454233294" duration="17998000" />
     </task>
     <servers />
   </component>
