@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nQueenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExampleClass/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodePractice/META-INF/CodePractice.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,7 +153,7 @@
       <workItem from="1606015553810" duration="4758000" />
       <workItem from="1606201219733" duration="10733000" />
       <workItem from="1606454233294" duration="19555000" />
-      <workItem from="1614651233346" duration="1324000" />
+      <workItem from="1614651233346" duration="3499000" />
     </task>
     <servers />
   </component>
