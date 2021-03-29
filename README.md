@@ -98,3 +98,7 @@
 
 ####Valid Sudoku
 [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/submissions/)
+
+
+#### longestPalindrome
+[longestPalindrome](https://leetcode.com/problems/longest-palindromic-substring/submissions/)
