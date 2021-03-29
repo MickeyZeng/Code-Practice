@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExampleClass/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestPalindromic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFS.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,9 +65,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.binarySearch">
-    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Permutation" />
+  <component name="RunManager" selected="Application.LongestPalindromic">
+    <configuration name="LongestPalindromic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestPalindromic" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,19 +102,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Permutation" />
       <item itemvalue="Application.RotateImage" />
       <item itemvalue="Application.groupAnagrams" />
       <item itemvalue="Application.pow" />
       <item itemvalue="Application.binarySearch" />
+      <item itemvalue="Application.LongestPalindromic" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestPalindromic" />
         <item itemvalue="Application.binarySearch" />
         <item itemvalue="Application.pow" />
         <item itemvalue="Application.groupAnagrams" />
         <item itemvalue="Application.RotateImage" />
-        <item itemvalue="Application.Permutation" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,8 @@
       <workItem from="1606015553810" duration="4758000" />
       <workItem from="1606201219733" duration="10733000" />
       <workItem from="1606454233294" duration="19555000" />
-      <workItem from="1614651233346" duration="3499000" />
+      <workItem from="1614651233346" duration="3692000" />
+      <workItem from="1616993217653" duration="4302000" />
     </task>
     <servers />
   </component>
