@@ -104,7 +104,9 @@
 [longestPalindrome](https://leetcode.com/problems/longest-palindromic-substring/submissions/)
 
 
+#### Maximum Subarray
+[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+
 #### Unique Paths
-[Unique Paths](https://leetcode.com/problems/maximum-subarray/)
-
-
+[Unique Paths](https://leetcode.com/problems/unique-paths/)
