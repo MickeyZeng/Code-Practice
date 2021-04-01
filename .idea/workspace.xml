@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/isMatchDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/maxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,16 +66,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LongestPalindromic">
+  <component name="RunManager" selected="Application.maxSubArray">
     <configuration name="LongestPalindromic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestPalindromic" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RotateImage" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,8 +81,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="groupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="groupAnagrams" />
+    <configuration name="isMatchDP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isMatchDP" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="maxSubArray" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,19 +103,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RotateImage" />
-      <item itemvalue="Application.groupAnagrams" />
       <item itemvalue="Application.pow" />
       <item itemvalue="Application.binarySearch" />
       <item itemvalue="Application.LongestPalindromic" />
+      <item itemvalue="Application.isMatchDP" />
+      <item itemvalue="Application.maxSubArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maxSubArray" />
+        <item itemvalue="Application.isMatchDP" />
         <item itemvalue="Application.LongestPalindromic" />
         <item itemvalue="Application.binarySearch" />
         <item itemvalue="Application.pow" />
-        <item itemvalue="Application.groupAnagrams" />
-        <item itemvalue="Application.RotateImage" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +155,7 @@
       <workItem from="1606201219733" duration="10733000" />
       <workItem from="1606454233294" duration="19555000" />
       <workItem from="1614651233346" duration="3692000" />
-      <workItem from="1616993217653" duration="4405000" />
+      <workItem from="1616993217653" duration="11255000" />
     </task>
     <servers />
   </component>
