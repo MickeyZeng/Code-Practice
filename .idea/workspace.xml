@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acd0f7af-11a4-4edb-8365-e3842dabdac0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/uniquePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uniquePathsTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -65,16 +65,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.uniquePaths">
+  <component name="RunManager" selected="Application.uniquePathsTwo">
     <configuration name="LongestPalindromic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestPalindromic" />
-      <module name="CodePractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarySearch" />
       <module name="CodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,20 +94,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="uniquePathsTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uniquePathsTwo" />
+      <module name="CodePractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.binarySearch" />
       <item itemvalue="Application.LongestPalindromic" />
       <item itemvalue="Application.isMatchDP" />
       <item itemvalue="Application.maxSubArray" />
       <item itemvalue="Application.uniquePaths" />
+      <item itemvalue="Application.uniquePathsTwo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.uniquePathsTwo" />
         <item itemvalue="Application.uniquePaths" />
         <item itemvalue="Application.maxSubArray" />
         <item itemvalue="Application.isMatchDP" />
         <item itemvalue="Application.LongestPalindromic" />
-        <item itemvalue="Application.binarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,7 @@
       <workItem from="1606201219733" duration="10733000" />
       <workItem from="1606454233294" duration="19555000" />
       <workItem from="1614651233346" duration="3692000" />
-      <workItem from="1616993217653" duration="12061000" />
+      <workItem from="1616993217653" duration="13893000" />
     </task>
     <servers />
   </component>
